@@ -1,4 +1,14 @@
 {
 	"name": "@owldesign/tiny",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"description": "Remove all spaces from a string",
+	"license": "MIT",
+	"repository": "owldesign/tiny",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"nmp",
+		"package",
+		"owldesign"
+	]
 }

@@ -5,5 +5,16 @@
 ![npm](https://img.shields.io/bundlephobia/min/@owldesign/tiny.svg)
 
 
-***
-Its truly the tiniest!
+## Install
+```
+$ npm install @owldesign/tiny
+```
+
+## Usage
+
+```
+const tiny = require("@owldesign/tiny");
+
+tiny("So much space!");
+//=> "Somuchspace!"
+```
